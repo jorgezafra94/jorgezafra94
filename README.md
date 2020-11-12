@@ -15,10 +15,9 @@ so that is the reason why I started to study Software Engineering, Machine Learn
 
 ![](https://github.com/jorgezafra94/jorgezafra94/blob/master/tools/data-science.gif)
 ## SOME GOALS 🤖
-* be one of the greatest Python's developer
-* Starting to work in Machine Learning field, or in Data Science fields
-* starting to travel and visit different parts of the world
-* getting my own house, car, etc, using my coding skills
+* be a the greate Python developer
+* Start to work in Machine Learning field, or in Data Science fields
+* start to travel and visit different parts of the world
 
 ## EXPERIENCE 💻
 I've worked with:
