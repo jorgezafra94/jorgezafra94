@@ -11,6 +11,8 @@ I'm currently in the programming world because I loved, specially all about BACK
 * Currently I am a Software Engineer specialized in Backend development
 * Usually I try to do one or two courses about Java or Python, it could be something related to frameworks, good practices, pattern designs, etc. Everything to improve my actual skills.
 * My Hobbies are VolleyBall and play electric guitar (trying to do it better everytime)
+
+
 ![backend-focused](https://user-images.githubusercontent.com/51681675/199337839-c4649d45-3588-4119-9d2e-7147cc53ccb7.jpg)
 
 ## SOME GOALS 🤖
@@ -27,7 +29,10 @@ I've worked with:
 * Pattern Design
 * RestFull Apis
 * Databases MySql, Sql and Oracle
+* BiqQueue - Topic
+* KVS (Key Value Store)
 * Docker-compose
+* NewRelic - DataDog - Kibana
 
 ### Python
 * Framewroks as flask and Django
