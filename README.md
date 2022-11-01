@@ -12,13 +12,16 @@ I'm currently in the programming world because I loved, specially all about BACK
 * Usually I try to do one or two courses about Java or Python, it could be something related to frameworks, good practices, pattern designs, etc. Everything to improve my actual skills.
 * My Hobbies are VolleyBall and play electric guitar (trying to do it better everytime)
 
-
-![backend-focused](https://user-images.githubusercontent.com/51681675/199337839-c4649d45-3588-4119-9d2e-7147cc53ccb7.jpg)
+![silicon-valley](https://user-images.githubusercontent.com/51681675/199342166-8f40d32f-a581-45a8-95d9-f764b356b8ed.gif)
 
 ## SOME GOALS 🤖
 * To be a experienced developer in Backend tecnologies, strong in Java and Python languages
 * To be a great Technical Leader some day, working in an amazing comopany, with amazing projects and teams
 * Start to travel and visit different parts of the world
+
+
+![backend crack](https://user-images.githubusercontent.com/51681675/199342183-d45f47cc-a0c2-46cf-90a1-787a13e68b90.gif)
+
 
 ## EXPERIENCE 💻
 I've worked with:
