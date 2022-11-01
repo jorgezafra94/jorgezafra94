@@ -1,7 +1,7 @@
 ![backend](https://user-images.githubusercontent.com/51681675/199336329-a67f000d-7eb0-4217-beb2-43108b3fa07b.gif)
 # HI, IM JORGE ENRIQUE ZAFRA
 I am a Software Engineer, and also a Mechatronic Engineer<br>
-I'm currently in the programming world because I loved, specially all about BACKEND 
+I'm currently in the programming world because I loved it, specially all about BACKEND 
 
 ## MY STATS 📊
  ![](https://github-readme-stats.vercel.app/api?username=jorgezafra94) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgezafra94)
